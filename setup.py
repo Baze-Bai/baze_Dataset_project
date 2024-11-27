@@ -14,7 +14,8 @@ setup(
         'numpy',
         'scipy',
         'matplotlib',
-        'impedance'
+        'impedance',
+        'unittest',
     ],
     entry_points={
         'console_scripts': [
