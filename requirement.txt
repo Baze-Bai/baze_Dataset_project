@@ -4,3 +4,4 @@ matplotlib
 kneed
 scipy
 impedance
+unittest
