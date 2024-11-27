@@ -1,7 +1,7 @@
-Pandas
-Numpy
-matplotlib
-kneed
-scipy
-impedance
-unittest
+Pandas==2.1.1
+NumPy==1.26.0
+Matplotlib==3.8.0
+kneed==0.8.3
+SciPy==1.11.3
+impedance==0.5.1
+setuptools==75.6.0

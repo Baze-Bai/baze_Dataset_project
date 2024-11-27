@@ -6,16 +6,12 @@ setup(
     packages=find_packages(),
     py_modules=['ECM_func', 'main', 'test'],  
     install_requires=[
-        'pandas',
-        'setuptools',
-        'chardet',
-        'openpyxl',
-        'xlrd',
-        'numpy',
-        'scipy',
-        'matplotlib',
-        'impedance',
-        'unittest',
+        'Pandas==2.1.1',
+        'setuptools==75.6.0',
+        'NumPy==1.26.0',
+        'SciPy==1.11.3',
+        'Matplotlib==3.8.0',
+        'impedance==0.5.1'
     ],
     entry_points={
         'console_scripts': [
